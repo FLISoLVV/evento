@@ -42,15 +42,15 @@ Um Installfest é um evento, geralmente patrocinado por um grupo de usuários Li
 
 ## Oficinas - Laboratório
 
-* **09:00** - 11:00 Bianca Nunes: Robótica com Arduino
+* **09:00 - 11:00** Bianca Nunes: Robótica com Arduino
 
-* **09:00** - 11:00 Daniel Magevski: Criptografia com GnuPG
+* **09:00 - 11:00** Daniel Magevski: Criptografia com GnuPG
 
-* **13:00** - 15:00 Francisca Souza: Programação Scratch com Arduino
+* **13:00 - 15:00** Francisca Souza: Programação Scratch com Arduino
 
-* **15:00** - 17:00 Mikael Hadler: Introdução ao Angular JS
+* **15:00 - 17:00** Mikael Hadler: Introdução ao Angular JS
 
-* **15:00** - 17:00 Vithor da Silva e Silva: Microsoft SQL Server no Linux
+* **15:00 - 17:00** Vithor da Silva e Silva: Microsoft SQL Server no Linux
 
 > Clique [aqui](https://docs.google.com/forms/d/e/1FAIpQLSfpeAhOnYzskzgO2a0ySQyJkd1Exmff8C-I1I6XfD-RwvzaVw/viewform) para submeter uma Oficina no FLISoL - ES 2017
 
