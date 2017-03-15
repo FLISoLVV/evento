@@ -1,5 +1,7 @@
 # FliSol Vila Velha
 
+<img src="https://github.com/FLISoLVV/colabore/blob/master/flisolvila.png" width="200px" />
+
 ## O que é FliSol?
 Flisol - (Festival Latino-americano de instalação de software livre), como o próprio nome já diz, seu principal objetivo é promover o uso de software livre, apresentando sua filosofia, seu alcance, avanços e desenvolvimento ao público em geral, sendo o maior evento de divulgação na América Latina.
 
@@ -55,23 +57,23 @@ Um Installfest é um evento, geralmente patrocinado por um grupo de usuários Li
 ## Responsáveis
 
 * Coordenador Geral:
-      * Jamilli Ricarto Ferreira
+	- Jamilli Ricarto Ferreira
       
-      * jamilliricarto@gmail.com
+     - jamilliricarto@gmail.com
     
 * Colaboradores/Coordenadores
-      * Gilberto Sudré
+	- Gilberto Sudré
       
-      * João Fernando
+	- João Fernando
       
-      * Luziane Klitzeke
+	- Luziane Klitzeke
       
-      * Flaviano Freitas
+	-  Flaviano Freitas
       
-      * Francisca Souza
+	-  Francisca Souza
       
-      * Cletiany de Martin
+	-  Cletiany de Martin
       
-      * Alysson Frizzera
+	-  Alysson Frizzera
       
       
