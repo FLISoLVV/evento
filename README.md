@@ -45,23 +45,13 @@ Um Installfest é um evento, geralmente patrocinado por um grupo de usuários Li
 
 * **16:30** Thiago Portugal Soledade: A importância do Firewall e Proxy no ambiente corporativo
 
-#### Breve grade completa
-
-> Clique [aqui](https://docs.google.com/forms/d/e/1FAIpQLSfpeAhOnYzskzgO2a0ySQyJkd1Exmff8C-I1I6XfD-RwvzaVw/viewform) para submeter uma Palestra no FLISoL - ES 2017
-
 ## Oficinas - Laboratório
-
-* **09:00 - 11:00** Bianca Nunes: Robótica com Arduino
 
 * **09:00 - 11:00** Daniel Magevski: Criptografia com GnuPG
 
-* **13:00 - 15:00** Francisca Souza: Programação Scratch com Arduino
-
-* **15:00 - 17:00** Mikael Hadler: Introdução ao Angular JS
+* **13:00 - 15:00** Mikael Hadler: Introdução ao Angular JS
 
 * **15:00 - 17:00** Vithor da Silva e Silva: Microsoft SQL Server no Linux
-
-> Clique [aqui](https://docs.google.com/forms/d/e/1FAIpQLSfpeAhOnYzskzgO2a0ySQyJkd1Exmff8C-I1I6XfD-RwvzaVw/viewform) para submeter uma Oficina no FLISoL - ES 2017
 
 ## Responsáveis
 
