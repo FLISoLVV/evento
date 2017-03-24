@@ -35,6 +35,15 @@ Um Installfest é um evento, geralmente patrocinado por um grupo de usuários Li
 
 * **13:00** Jadson do Prado: Um relato de experiência na formação de professores e alunos no ensino da robótica.
 
+* **13:30** Delermando Branquinho Filho: Linguagem R para Data Science
+
+* **14:20** Júlio Cezar Lamberti Marques: Informação Corporativa com Banco de Dados Open Source
+
+* **15:00** - Coffee Break
+
+* **15:30** Rafael Ferreira dos Santos: .Net OSS
+
+* **16:30** Thiago Portugal Soledade: A importância do Firewall e Proxy no ambiente corporativo
 
 #### Breve grade completa
 
