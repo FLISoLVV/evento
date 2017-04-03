@@ -64,6 +64,8 @@ Um Installfest é um evento, geralmente patrocinado por um grupo de usuários Li
 	- Gilberto Sudré
       
 	- João Fernando
+	
+	- Samuel Verneck
       
 	- Luziane Klitzeke
       
